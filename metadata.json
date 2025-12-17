@@ -1,0 +1,5 @@
+{
+  "name": "KtabGo",
+  "description": "Système complet de gestion de bibliothèque avec catalogue, réservations, administration et assistant IA.",
+  "requestFramePermissions": []
+}
